@@ -1,0 +1,8 @@
+
+import greetingMessage from '../greeting/index.js';
+
+const messageText = `Hello Rahul! Have a Great Day';
+
+export default messageText;
+
+console.log(greetingMessage);
